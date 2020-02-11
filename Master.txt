@@ -1,5 +1,5 @@
 
-<Version: 1.02>
+<Version: 1.01>
 /data/Weapons.json https://raw.githubusercontent.com/luwuna/pq2updates/master/Weapons.json
 /data/Map055.json https://raw.githubusercontent.com/luwuna/pq2updates/master/Map055.json
 <End of Version>
