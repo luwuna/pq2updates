@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-
+/data/Weapons.json https://raw.githubusercontent.com/luwuna/pq2updates/master/Weapons.json
 <End of Version>
