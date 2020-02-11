@@ -1,5 +1,4 @@
 
-<Version: 1.04>
-/data/Map066.json https://raw.githubusercontent.com/luwuna/pq2updates/master/Map066.json
-/data/Map055.json https://raw.githubusercontent.com/luwuna/pq2updates/master/Map066.json
+<Version: 1.01>
+
 <End of Version>
